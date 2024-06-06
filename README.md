@@ -1,1 +1,1 @@
-# Covid-Case-Prediction
+# ARIMA-Covid-Forecasting
